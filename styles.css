@@ -1,10 +1,10 @@
 @font-face{
     font-family:Altone;
-    src:url(Altone-Trial-Regular.ttf)
+    src:url(https://github.com/keanlun123-hash/importance/blob/76b0c86f76c6b14f96c7424777cd0544c07ba66f/Altone-Trial-Regular.ttf);
 }
 @font-face{
     font-family:Montserrat;
-    src:url(Montserrat-Medium.ttf);
+    src:url(https://github.com/keanlun123-hash/importance/blob/76b0c86f76c6b14f96c7424777cd0544c07ba66f/Montserrat-Medium.ttf);
 }
 @keyframes fade-in{
 0%{opacity:0;
@@ -21,7 +21,7 @@ size:100%
         margin-top:0;
     }
 header{
-    background-image:url(libertyisland.png);
+    background-image:url(https://github.com/keanlun123-hash/importance/blob/76b0c86f76c6b14f96c7424777cd0544c07ba66f/libertyisland.png);
     height:900px;
     width:100%;
     background-repeat:no-repeat;
@@ -106,3 +106,4 @@ a:hover{
     color:rgb(133, 135, 155);
 
 }
+
